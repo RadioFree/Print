@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Radio Free - Print
- * Plugin URI: https://radiofree.org
+ * Plugin URI: https://llacuna.org
  * Description: This plugin adds a button to the bottom of each post that adds the ability to make any post printable in a two column journal style layout. It includes automatic citations for links, including in-line annotations.   
  * Version: 1.0
  * Author: Sufi Shaikh & Chase Lang
